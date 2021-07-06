@@ -1,0 +1,9 @@
+.RecipieInput__inputBlock {
+	display: flex;
+	flex-direction: column;
+}
+
+.RecipieInput__textArea {
+	min-height: 200px;
+	min-width: 300px;
+}

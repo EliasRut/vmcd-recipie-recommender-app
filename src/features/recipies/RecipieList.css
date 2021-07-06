@@ -1,0 +1,12 @@
+.RecipieList__item {
+	font-size: 1.4em;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 300px;
+}
+
+.RecipieList__editButton {
+	cursor: pointer;
+	text-decoration: underline;
+}
